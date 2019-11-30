@@ -17,6 +17,9 @@ namespace Tuntiharjoitus1
             
             //Näköjään näkyy. Tehty Gitissä
 
+            
+            //Kolmas edit via GIT
+            
             Console.ReadLine();
         }
     }
