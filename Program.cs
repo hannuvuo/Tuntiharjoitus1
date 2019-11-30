@@ -14,6 +14,8 @@ namespace Tuntiharjoitus1
             Console.WriteLine("Hello world");
 
             //Näkyykö gitissä?
+            
+            //Näköjään näkyy. Tehty Gitissä
 
             Console.ReadLine();
         }
