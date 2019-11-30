@@ -10,10 +10,10 @@ namespace Tuntiharjoitus1
     {
         static void Main(string[] args)
         {
-            //Testi, git-webissä tehty muutos
+            //Testaus
             Console.WriteLine("Hello world");
 
-            //koneella tehty muutos git-webissä tehdyn muutoksen jälkeen.			
+            //Näkyykö gitissä?
 
             Console.ReadLine();
         }
